@@ -8,4 +8,5 @@
 <img src="https://github.com/paulasaraivadev/Easy-Shopping/blob/main/Assets/easy-shopping-desktop.PNG?raw=true">
 <br>
 <br>
+
 <img src="https://github.com/paulasaraivadev/Easy-Shopping/blob/main/Assets/easy%20shopping%20responsivo.JPG?raw=true">
